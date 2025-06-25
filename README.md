@@ -1,8 +1,2 @@
-
-name = input("enter your name :")
-dob = int(input("enter your birth year:"))
-
-age = 2025 - dob
-
-print("your current age is :", age)
-
+#My new Journey in Python
+this is my some mini project using of basic like datatype, variable and ifelse statement
